@@ -1,0 +1,143 @@
+.button {
+    border: none;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 6px;
+    width: 300px;
+    font-family: sans-serif;
+    margin-left: 800px;
+    
+  }
+  
+  .button1 {
+    background-color: rgb(255, 255, 255); 
+    color: black; 
+    border: 2px solid none;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05);
+    margin-left: 1030px;
+    margin-top: -100px;
+    
+  }
+  
+  .button1:hover {
+    background-color: #9d9c9c55;
+    color: black;
+    
+  }
+
+  
+  .button2 {
+    background-color: rgb(255, 255, 255); 
+    color: black; 
+    border: 2px solid none;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05);
+    font-family: Arialblack, Helvetica, sans-serif;
+    border-left-color: #174417;
+    margin-top: 80px; 
+  }
+  
+  .button2:hover {
+      background-color: #9d9c9c55;
+      color: black;
+  }
+
+  .sobe {
+    margin-top: -640px;
+    margin-left: -95px;
+  }
+
+ 
+  .soso {
+    margin-top: -26px;
+  }
+
+
+  .new1 {
+    margin-left: 718px;
+    margin-top: -47px;
+}
+
+.new2 {
+  margin-left: 1040px;
+  margin-top: -47px;
+}
+
+
+.tab {
+  float: left;
+  border: 2px  rgba(0, 0, 0, 0.881);
+  
+  background-color: #ffffff;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05);
+  width: 12%;
+  height: 213px;
+  margin-top: 150px;
+  margin-left: 710px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+  
+  
+}
+
+/* vertical hover */
+.tab button:hover {
+  background-color: #ffffff;
+}
+
+/* campo de texto hover */
+.tab button.active {
+  background-color: #ffffff;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #cccccc0e;
+  width: 475px;
+  border-left: none;
+  height: 213px;
+  margin-top: -213px;
+  margin-left: 866px;
+  background-color: #ffffff;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05);
+
+}
+
+.solic {
+  margin-left: 710px;
+  margin-top: -100px;
+}
+
+.solic1{
+  
+  margin-top: 130px;
+ margin-left: 400px;
+}
+
+.func {
+  margin-left: 710px;
+  margin-top: 110px;
+  font-size: 34px;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  color: #242d39;
+}
